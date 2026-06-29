@@ -1,0 +1,256 @@
+canonical_identifier: bkk:krp/KR3ei008/v1
+canonical_location: https://kanripo.org/bkk/KR3ei008/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 女科要旨
+  identifiers:
+    krp: KR3ei008
+  tags:
+    kr-categories: KR3ei
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ei008.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ei008_000.yaml, hash: 'sha256:9e2c3956e3611eeb6ebe1bd37d10a5b379699d85646d0e5d02c320c58f6dec65'}
+  - {seq: 1, filename: KR3ei008_001.yaml, hash: 'sha256:d8b49521dc65ef5c8c9dd01a60952a8d3cdfccfae542d6871c4b9fea78599a04'}
+  - {seq: 2, filename: KR3ei008_002.yaml, hash: 'sha256:86a09fb62821df493a5d54831a6fb4323650e8bc0aaab2685f26ea5ae6d1d2d0'}
+  - {seq: 3, filename: KR3ei008_003.yaml, hash: 'sha256:50664c27604c1d9120ba41917eb1ec8e75f0071ff0664b2978e7b4d745051bd3'}
+  - {seq: 4, filename: KR3ei008_004.yaml, hash: 'sha256:094e606c6ff97486c1d434fd457750c7fe5a1d19b3cedc2e3cac1cd00c343d57'}
+  - {seq: 0, filename: KR3ei008_000.yaml, hash: 'sha256:9e2c3956e3611eeb6ebe1bd37d10a5b379699d85646d0e5d02c320c58f6dec65'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ei008_000.markers.yaml, hash: 'sha256:f444e80a92e78176349ae19ccd20f9fc4754eb5dff63bd427bbc9914e830f585'}
+  - {seq: 1, role: markers, filename: assets/KR3ei008_001.markers.yaml, hash: 'sha256:961a457c30105d1791efcf7c4090c18eb5df7b69df04604e97564e307d56b78a'}
+  - {seq: 2, role: markers, filename: assets/KR3ei008_002.markers.yaml, hash: 'sha256:1b6f315ccb66b13c794dc8a4d59716f571e2d97935b78f0371a9ce5fb804303d'}
+  - {seq: 3, role: markers, filename: assets/KR3ei008_003.markers.yaml, hash: 'sha256:6f303ba5c45411271c739f2037d477eb6b8ccecaecbb079800c9a1c8b6e71426'}
+  - {seq: 4, role: markers, filename: assets/KR3ei008_004.markers.yaml, hash: 'sha256:e2bbe17a6a2fa10dc47e90862cda41fddb75bf37776085449c23a15dd0cb12e5'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ei008_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 405
+  label: 敘言
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ei008_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 9145
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ei008_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 6419
+  label: 調經
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei008_jc_001-d3.d2d36
+    span:
+    - body
+    - 3504
+    - 6419
+  label: 古今方十九首
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei008_jc_001-d3d3
+    span:
+    - body
+    - 6419
+    - 9145
+  label: 種子
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ei008_jc_001-d3.d3d28
+    span:
+    - body
+    - 7869
+    - 8211
+  label: 時方三首
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ei008_jc_001-d3.d3d29
+    span:
+    - body
+    - 8211
+    - 9145
+  label: 外備方三首
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ei008_jc_002-d4.h1s1
+    span:
+    - body
+    - 0
+    - 8227
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ei008_jc_002-d4d2
+    span:
+    - body
+    - 2
+    - 8227
+  label: 胎前
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ei008_jc_002-d4.d2d70
+    span:
+    - body
+    - 5260
+    - 8227
+  label: 金匱方八首時方九首
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ei008_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 8351
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ei008_jc_003-d5d2
+    span:
+    - body
+    - 2
+    - 8351
+  label: 產後
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ei008_jc_003-d5.d2d58
+    span:
+    - body
+    - 4382
+    - 8351
+  label: 金匱方論一十一首
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei008_jc_004-d6.h1s1
+    span:
+    - body
+    - 0
+    - 10688
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ei008_jc_004-d6d2
+    span:
+    - body
+    - 2
+    - 8229
+  label: 雜病
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ei008_jc_004-d6.d2d54
+    span:
+    - body
+    - 4961
+    - 8229
+  label: 金匱方一十九首
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei008_jc_004-d6d3
+    span:
+    - body
+    - 8229
+    - 10688
+  label: 外科
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ei008_jc_004-d6.d3d4
+    span:
+    - body
+    - 8375
+    - 8645
+  label: 眼目
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei008_jc_004-d6.d3d5
+    span:
+    - body
+    - 8645
+    - 9006
+  label: 瘰癧
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei008_jc_004-d6.d3d6
+    span:
+    - body
+    - 9006
+    - 9695
+  label: 乳癰乳岩附乳縮乳卸
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ei008_jc_004-d6.d3d7
+    span:
+    - body
+    - 9695
+    - 10688
+  label: 附婦人陰挺論
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ei008_jc_000-d7.h1s1
+    span:
+    - body
+    - 0
+    - 462
+  label: 續記
+  type: section
+  level: 1
+hash: sha256:32aee46ee6ad68a8a5333f8f7e174c7db9e28d6c82825d7ea534c6bc4e6efcc6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
