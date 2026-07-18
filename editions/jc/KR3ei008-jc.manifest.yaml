@@ -25,11 +25,10 @@ assets:
   - {seq: 0, filename: KR3ei008_000-jc.yaml, hash: 'sha256:7374c5904ff1565afdae4f88a034fa0bfe0b11b3e663aecabdce56a63e8bb23a'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3ei008_000-jc.markers.yaml, hash: 'sha256:5b8415565dd6f2c8d58d383ac10a6cd2886ae06f3b0bc732cf57f6fbcd6094ce'}
-  - {seq: 1, role: markers, filename: assets/KR3ei008_001-jc.markers.yaml, hash: 'sha256:d66021b8516b565c98f21b5cc47bfe5defb99dcd06f5811029657d799d1602e7'}
-  - {seq: 2, role: markers, filename: assets/KR3ei008_002-jc.markers.yaml, hash: 'sha256:51ddf40416249cf26525f782452c0df1c11eabc39c25f23293bacd7618910774'}
-  - {seq: 3, role: markers, filename: assets/KR3ei008_003-jc.markers.yaml, hash: 'sha256:e7209635f1f9ca33441c84d79f10f936a35fe044da5ec46ef4a95c9925c6e2a4'}
-  - {seq: 4, role: markers, filename: assets/KR3ei008_004-jc.markers.yaml, hash: 'sha256:b281ac774b79babfda7874e8985dd25a689ad642625feecc2d0daf05945d17b0'}
-  - {seq: 0, role: markers, filename: assets/KR3ei008_000-jc.markers.yaml, hash: 'sha256:5b8415565dd6f2c8d58d383ac10a6cd2886ae06f3b0bc732cf57f6fbcd6094ce'}
+  - {seq: 1, role: markers, filename: assets/KR3ei008_001-jc.markers.yaml, hash: 'sha256:a3c6730287ddb9950fd3b6213aed205ccd9323111bc6dc2ca7058c97ee0559ae'}
+  - {seq: 2, role: markers, filename: assets/KR3ei008_002-jc.markers.yaml, hash: 'sha256:4654bd3f494dda73bbb94d493c3635112f1f9bd9829183cbea02a4172b197a9e'}
+  - {seq: 3, role: markers, filename: assets/KR3ei008_003-jc.markers.yaml, hash: 'sha256:77cb10adc692f91c05684699a56a258ed4f63212f34f88134a4275b6aa650445'}
+  - {seq: 4, role: markers, filename: assets/KR3ei008_004-jc.markers.yaml, hash: 'sha256:bcf6570cf673533680688b2f71f214a7c6446465b562e5a357823eed93964832'}
 table_of_contents:
 - ref:
     seq: 0
@@ -251,4 +250,4 @@ table_of_contents:
   label: 續記
   type: section
   level: 1
-hash: sha256:9f1756beef67b2bc1effae52047dcaf9494050cd1c62b556ef1a3ddcc4e0dd17
+hash: sha256:a40b12444ea26ee653e18aae32eb5b427af110ed822ffd6a00b32af627a85de1
